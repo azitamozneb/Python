@@ -1,6 +1,5 @@
 #HW14-4, 12/11/2022
-#Determining the prime of the 
-# sum of the digits of the number.
+#Determining if sum of digits is a prime number.
 #*******************************
 def prime(n):
     l=[]
